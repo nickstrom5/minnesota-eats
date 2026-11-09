@@ -1,0 +1,440 @@
+{
+ "generated": "2026-11-06",
+ "domain": "https://nickstrom5.github.io/minnesota-eats",
+ "restaurants": 10238,
+ "places_incl_hidden": 10814,
+ "towns": 711,
+ "counties": 87,
+ "on_an_official_list": 998,
+ "hand_checked_on_a_guide": 50,
+ "serves_alcohol_state_license": 333,
+ "guide_lucys": 5,
+ "guide_walleye": 4,
+ "guide_hmong": 8,
+ "guide_african": 5,
+ "guide_north": 11,
+ "guide_classics": 15,
+ "oldest": 5,
+ "honors": 22,
+ "michelin": {},
+ "james_beard": 22,
+ "americas_classics": 3,
+ "permits_updated": "2026-11-06",
+ "city_pages": {
+  "Minneapolis": {
+   "restaurants": 1354,
+   "listed": 20,
+   "lucys": 2,
+   "walleye": 0,
+   "hmong": 0,
+   "african": 3,
+   "north": 0,
+   "classics": 1,
+   "hon": 15,
+   "oldest": 2
+  },
+  "St. Paul": {
+   "restaurants": 585,
+   "listed": 28,
+   "lucys": 3,
+   "walleye": 0,
+   "hmong": 8,
+   "african": 2,
+   "north": 0,
+   "classics": 11,
+   "hon": 4,
+   "oldest": 1
+  },
+  "Duluth": {
+   "restaurants": 234,
+   "listed": 4,
+   "lucys": 0,
+   "walleye": 0,
+   "hmong": 0,
+   "african": 0,
+   "north": 3,
+   "classics": 0,
+   "hon": 1,
+   "oldest": 1
+  }
+ },
+ "cities_without_a_page": {
+  "Rochester": 0,
+  "St. Cloud": 1,
+  "Grand Marais": 2,
+  "Two Harbors": 2,
+  "Hibbing": 1,
+  "Grand Rapids": 1,
+  "Mankato": 0,
+  "Bloomington": 0,
+  "Edina": 0,
+  "Robbinsdale": 0,
+  "Brainerd": 0,
+  "Moorhead": 0,
+  "Winona": 0,
+  "Stillwater": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 787333,
+   "gzip": 177491
+  },
+  "data/detail-aitkin-county.json": {
+   "raw": 1649,
+   "gzip": 571
+  },
+  "data/detail-anoka-county.json": {
+   "raw": 31495,
+   "gzip": 7796
+  },
+  "data/detail-becker-county.json": {
+   "raw": 3270,
+   "gzip": 1028
+  },
+  "data/detail-beltrami-county.json": {
+   "raw": 5387,
+   "gzip": 1422
+  },
+  "data/detail-benton-county.json": {
+   "raw": 3226,
+   "gzip": 1101
+  },
+  "data/detail-big-stone-county.json": {
+   "raw": 262,
+   "gzip": 158
+  },
+  "data/detail-blue-earth-county.json": {
+   "raw": 9744,
+   "gzip": 2617
+  },
+  "data/detail-brown-county.json": {
+   "raw": 3148,
+   "gzip": 986
+  },
+  "data/detail-carlton-county.json": {
+   "raw": 2909,
+   "gzip": 913
+  },
+  "data/detail-carver-county.json": {
+   "raw": 10619,
+   "gzip": 2956
+  },
+  "data/detail-cass-county.json": {
+   "raw": 3278,
+   "gzip": 1077
+  },
+  "data/detail-chippewa-county.json": {
+   "raw": 1066,
+   "gzip": 428
+  },
+  "data/detail-chisago-county.json": {
+   "raw": 4805,
+   "gzip": 1454
+  },
+  "data/detail-clay-county.json": {
+   "raw": 5009,
+   "gzip": 1471
+  },
+  "data/detail-clearwater-county.json": {
+   "raw": 579,
+   "gzip": 272
+  },
+  "data/detail-cook-county.json": {
+   "raw": 1561,
+   "gzip": 639
+  },
+  "data/detail-cottonwood-county.json": {
+   "raw": 943,
+   "gzip": 412
+  },
+  "data/detail-crow-wing-county.json": {
+   "raw": 10836,
+   "gzip": 3012
+  },
+  "data/detail-dakota-county.json": {
+   "raw": 44345,
+   "gzip": 10714
+  },
+  "data/detail-dodge-county.json": {
+   "raw": 1418,
+   "gzip": 584
+  },
+  "data/detail-douglas-county.json": {
+   "raw": 4571,
+   "gzip": 1318
+  },
+  "data/detail-faribault-county.json": {
+   "raw": 1168,
+   "gzip": 447
+  },
+  "data/detail-fillmore-county.json": {
+   "raw": 2050,
+   "gzip": 675
+  },
+  "data/detail-freeborn-county.json": {
+   "raw": 3891,
+   "gzip": 1113
+  },
+  "data/detail-goodhue-county.json": {
+   "raw": 5205,
+   "gzip": 1582
+  },
+  "data/detail-grant-county.json": {
+   "raw": 352,
+   "gzip": 190
+  },
+  "data/detail-hennepin-county.json": {
+   "raw": 329202,
+   "gzip": 49758
+  },
+  "data/detail-houston-county.json": {
+   "raw": 1185,
+   "gzip": 432
+  },
+  "data/detail-hubbard-county.json": {
+   "raw": 2308,
+   "gzip": 752
+  },
+  "data/detail-isanti-county.json": {
+   "raw": 3566,
+   "gzip": 1083
+  },
+  "data/detail-itasca-county.json": {
+   "raw": 4063,
+   "gzip": 1263
+  },
+  "data/detail-jackson-county.json": {
+   "raw": 607,
+   "gzip": 276
+  },
+  "data/detail-kanabec-county.json": {
+   "raw": 1293,
+   "gzip": 491
+  },
+  "data/detail-kandiyohi-county.json": {
+   "raw": 4187,
+   "gzip": 1290
+  },
+  "data/detail-kittson-county.json": {
+   "raw": 310,
+   "gzip": 192
+  },
+  "data/detail-koochiching-county.json": {
+   "raw": 1074,
+   "gzip": 396
+  },
+  "data/detail-lac-qui-parle-county.json": {
+   "raw": 346,
+   "gzip": 152
+  },
+  "data/detail-lake-county.json": {
+   "raw": 2219,
+   "gzip": 836
+  },
+  "data/detail-lake-of-the-woods-county.json": {
+   "raw": 675,
+   "gzip": 317
+  },
+  "data/detail-le-sueur-county.json": {
+   "raw": 2414,
+   "gzip": 818
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 209,
+   "gzip": 140
+  },
+  "data/detail-lyon-county.json": {
+   "raw": 2558,
+   "gzip": 855
+  },
+  "data/detail-mahnomen-county.json": {
+   "raw": 209,
+   "gzip": 137
+  },
+  "data/detail-marshall-county.json": {
+   "raw": 378,
+   "gzip": 184
+  },
+  "data/detail-martin-county.json": {
+   "raw": 1961,
+   "gzip": 647
+  },
+  "data/detail-mcleod-county.json": {
+   "raw": 3985,
+   "gzip": 1170
+  },
+  "data/detail-meeker-county.json": {
+   "raw": 1258,
+   "gzip": 478
+  },
+  "data/detail-mille-lacs-county.json": {
+   "raw": 2542,
+   "gzip": 824
+  },
+  "data/detail-morrison-county.json": {
+   "raw": 3030,
+   "gzip": 940
+  },
+  "data/detail-mower-county.json": {
+   "raw": 3427,
+   "gzip": 1061
+  },
+  "data/detail-murray-county.json": {
+   "raw": 503,
+   "gzip": 247
+  },
+  "data/detail-nicollet-county.json": {
+   "raw": 3279,
+   "gzip": 1037
+  },
+  "data/detail-nobles-county.json": {
+   "raw": 1888,
+   "gzip": 629
+  },
+  "data/detail-norman-county.json": {
+   "raw": 270,
+   "gzip": 170
+  },
+  "data/detail-olmsted-county.json": {
+   "raw": 19634,
+   "gzip": 5040
+  },
+  "data/detail-otter-tail-county.json": {
+   "raw": 5822,
+   "gzip": 1750
+  },
+  "data/detail-pennington-county.json": {
+   "raw": 1780,
+   "gzip": 631
+  },
+  "data/detail-pine-county.json": {
+   "raw": 3200,
+   "gzip": 1004
+  },
+  "data/detail-pipestone-county.json": {
+   "raw": 739,
+   "gzip": 299
+  },
+  "data/detail-polk-county.json": {
+   "raw": 2989,
+   "gzip": 929
+  },
+  "data/detail-pope-county.json": {
+   "raw": 717,
+   "gzip": 283
+  },
+  "data/detail-ramsey-county.json": {
+   "raw": 60561,
+   "gzip": 15960
+  },
+  "data/detail-red-lake-county.json": {
+   "raw": 260,
+   "gzip": 147
+  },
+  "data/detail-redwood-county.json": {
+   "raw": 897,
+   "gzip": 355
+  },
+  "data/detail-renville-county.json": {
+   "raw": 753,
+   "gzip": 313
+  },
+  "data/detail-rice-county.json": {
+   "raw": 6517,
+   "gzip": 1893
+  },
+  "data/detail-rock-county.json": {
+   "raw": 691,
+   "gzip": 307
+  },
+  "data/detail-roseau-county.json": {
+   "raw": 1362,
+   "gzip": 502
+  },
+  "data/detail-saint-louis-county.json": {
+   "raw": 25499,
+   "gzip": 6706
+  },
+  "data/detail-scott-county.json": {
+   "raw": 13518,
+   "gzip": 3540
+  },
+  "data/detail-sherburne-county.json": {
+   "raw": 6987,
+   "gzip": 1982
+  },
+  "data/detail-sibley-county.json": {
+   "raw": 1225,
+   "gzip": 458
+  },
+  "data/detail-stearns-county.json": {
+   "raw": 19586,
+   "gzip": 5291
+  },
+  "data/detail-steele-county.json": {
+   "raw": 3825,
+   "gzip": 1201
+  },
+  "data/detail-stevens-county.json": {
+   "raw": 1169,
+   "gzip": 437
+  },
+  "data/detail-swift-county.json": {
+   "raw": 759,
+   "gzip": 322
+  },
+  "data/detail-todd-county.json": {
+   "raw": 1982,
+   "gzip": 684
+  },
+  "data/detail-traverse-county.json": {
+   "raw": 186,
+   "gzip": 136
+  },
+  "data/detail-wabasha-county.json": {
+   "raw": 2163,
+   "gzip": 697
+  },
+  "data/detail-wadena-county.json": {
+   "raw": 1353,
+   "gzip": 521
+  },
+  "data/detail-waseca-county.json": {
+   "raw": 1850,
+   "gzip": 645
+  },
+  "data/detail-washington-county.json": {
+   "raw": 27331,
+   "gzip": 6856
+  },
+  "data/detail-watonwan-county.json": {
+   "raw": 957,
+   "gzip": 387
+  },
+  "data/detail-wilkin-county.json": {
+   "raw": 318,
+   "gzip": 186
+  },
+  "data/detail-winona-county.json": {
+   "raw": 6261,
+   "gzip": 1800
+  },
+  "data/detail-wright-county.json": {
+   "raw": 13439,
+   "gzip": 3589
+  },
+  "data/detail-yellow-medicine-county.json": {
+   "raw": 621,
+   "gzip": 265
+  },
+  "data/ids.json": {
+   "raw": 133122,
+   "gzip": 77447
+  },
+  "data/mn_shapes.json": {
+   "raw": 73784,
+   "gzip": 18127
+  }
+ }
+}

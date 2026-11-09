@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "version": "2026-11-06.5",
+ "records_through": "2026-11-06",
+ "published": "2026-11-07T00:20:21Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-arrowhead-north-shore": {
+   "path": "detail-arrowhead-north-shore-5ebc002b4074.json",
+   "sha256": "5ebc002b407448e2ff8de4ecb1f6dd9de737813c53558449fb9b34f119b81eea",
+   "bytes": 44436,
+   "rows": 699
+  },
+  "detail-central-minnesota": {
+   "path": "detail-central-minnesota-d53ed6c1fcf1.json",
+   "sha256": "d53ed6c1fcf1b9903d5cdad265a91c08e569b3232ea7e52950ff3bde0c50369f",
+   "bytes": 94940,
+   "rows": 1451
+  },
+  "detail-lakes-northwest": {
+   "path": "detail-lakes-northwest-4fae04b81033.json",
+   "sha256": "4fae04b81033962a6a586eee5d56e812d485e073026aee84a563f23d65d26fa2",
+   "bytes": 55893,
+   "rows": 920
+  },
+  "detail-prairie-southwest": {
+   "path": "detail-prairie-southwest-81b2d9de87f1.json",
+   "sha256": "81b2d9de87f173a818f765605fa6d20b2b5937e54fa074d42f144153bda484da",
+   "bytes": 16307,
+   "rows": 306
+  },
+  "detail-southern-minnesota": {
+   "path": "detail-southern-minnesota-746a0e76dc8a.json",
+   "sha256": "746a0e76dc8a213324b2478c789ab72b026e29dc97e46001e43ec80a22919aa0",
+   "bytes": 95641,
+   "rows": 1473
+  },
+  "detail-twin-cities": {
+   "path": "detail-twin-cities-35e728ddeb64.json",
+   "sha256": "35e728ddeb6488bcebce21a96c8d31de2f7a643614a792db0fe89432d369bb1d",
+   "bytes": 611564,
+   "rows": 5777
+  },
+  "places": {
+   "path": "places-4c3dbcac78e9.json",
+   "sha256": "4c3dbcac78e9009bb7efdc1b7b7bf4664cd226d579a9a73904795dcf2f32512a",
+   "bytes": 1763637,
+   "rows": 10814
+  }
+ },
+ "counts": {
+  "places": 10814,
+  "files": 7,
+  "bytes": 2682418,
+  "restaurants": 10238
+ },
+ "previous": {
+  "version": "2026-11-06.4",
+  "files": {
+   "detail-arrowhead-north-shore": "detail-arrowhead-north-shore-5ebc002b4074.json",
+   "detail-central-minnesota": "detail-central-minnesota-d53ed6c1fcf1.json",
+   "detail-lakes-northwest": "detail-lakes-northwest-4fae04b81033.json",
+   "detail-prairie-southwest": "detail-prairie-southwest-81b2d9de87f1.json",
+   "detail-southern-minnesota": "detail-southern-minnesota-746a0e76dc8a.json",
+   "detail-twin-cities": "detail-twin-cities-35e728ddeb64.json",
+   "places": "places-223c36484e50.json"
+  }
+ }
+}
